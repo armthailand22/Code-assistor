@@ -1,1 +1,1 @@
-# Code-assistor
+#Plugin Code assistor for KB-IDE
